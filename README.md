@@ -1,4 +1,4 @@
-# ebook
+# Travella - Discover, Book, and Explore with Travella!
 
 A new Flutter project.
 
