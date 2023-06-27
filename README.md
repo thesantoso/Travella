@@ -1,6 +1,6 @@
 # Travella - Discover, Book, and Explore with Travella!
 
-A new Flutter project.
+for a live preview, you can better view with inspect element and then toggle device emulation 
 
 ## Getting Started
 
