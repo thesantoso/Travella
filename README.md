@@ -2,15 +2,6 @@
 
 for a live preview, you can better view with inspect element and then toggle device emulation 
 
-## Getting Started
+![mobile](https://github.com/thesantoso/Travella/assets/86040508/4b521d00-0e10-482b-b481-7a65f573ba4a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Disclaimer: This application is still under active development, and additional features are being planned and implemented. Please note that the current version of the application may not include all intended functionalities or may have limited capabilities. We appreciate your understanding and patience as we continue to enhance and expand the features of the application. Thank you for your support.
